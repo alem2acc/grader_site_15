@@ -1,0 +1,5 @@
+{
+  "name": "Grader AI Web",
+  "description": "A comprehensive web platform for IELTS preparation with AI-powered feedback for Speaking, Writing, Reading, and Listening.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
